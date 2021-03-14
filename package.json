@@ -10,6 +10,5 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dot-env": "^0.0.1"
   }
 }
